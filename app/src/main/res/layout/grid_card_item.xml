@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/buttonGridView"
+        android:layout_width="@dimen/grid_item_button_width"
+        android:layout_height="@dimen/grid_item_button_height"
+        android:backgroundTint="@color/yellow"
+        android:textColor="@color/black"
+        android:textSize="25sp" />
+
+</LinearLayout>
